@@ -607,6 +607,15 @@ margin-left: 0;
   top: -12px;
 }
 
+#dstra-home a.dstra {
+  background-repeat: no-repeat;
+  background-position: center center;
+  display: inline-block;
+  float: left;
+  background-image: url('../img/dstra-main-logo-blackfont-300.png');
+  background-size: 100%;
+}
+
 #powered a {
   background-repeat: no-repeat;
   background-position: center center;
